@@ -37,24 +37,6 @@
 - [x] Should not be able to a non admin user get list of all users
 - [x] Should not be able to a non existing user get list of all users
 
-## :computer: Instalação ##
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterII-Desafio01.git
-
-# Entre na pasta
-$ cd IgniteNode-ChapterII-Desafio01
-
-# Instale as dependências
-$ yarn ou yarn install
-
-# Execute a aplicação em modo de desenvolvimento
-$ yarn dev
-
-# O servidor inciará na porta:3333
-acesse <http://localhost:3333>
-```
 
 # ESLint e Prettier - Trilha Node.js
 https://www.notion.so/ESLint-e-Prettier-Trilha-Node-js-d3f3ef576e7f45dfbbde5c25fa662779
